@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <VS7_SalesRuleListInCart>
+            <active>true</active>
+            <codePool>community</codePool>
+        </VS7_SalesRuleListInCart>
+    </modules>
+</config>
